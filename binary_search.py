@@ -19,5 +19,5 @@ def binary_search(searchlist, numtosearch):
   return None
     
 numstotest = [1,2,3,4,5,6,7,8,9]
-binary_search(numstotest, 12)
-binary_search(numstotest, 6)
+print(binary_search(numstotest, 12))
+print(binary_search(numstotest, 6))
