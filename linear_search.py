@@ -7,6 +7,5 @@ def linear_search(searchlist, numtosearch):
   return None
 
 numstotest = [1,3,5,2,4,6,8,7,9]
-linear_search(numstotest, 12)
-
-linear_search(numstotest, 6)
+print(linear_search(numstotest, 12))
+print(linear_search(numstotest, 6))
