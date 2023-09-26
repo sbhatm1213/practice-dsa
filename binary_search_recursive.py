@@ -16,6 +16,8 @@ def binary_search_recursive(sortedlist, x):
     return "Found "
 
 
-  
+numstotest = [1,2,3,4,5,6,7,8,9]
+print(binary_search_recursive(numstotest, 12))
+print(binary_search_recursive(numstotest, 6))  
   
   
